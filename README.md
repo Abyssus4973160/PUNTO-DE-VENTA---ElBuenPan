@@ -4,7 +4,7 @@ Sistema de Punto de Venta (POS) profesional desarrollado en **Java**, diseñado 
 
 ## 🛠️ Stack Tecnológico
 * **Lenguaje:** Java SE (Swing para la interfaz gráfica).
-* **Persistencia:** MariaDB / MySQL.
+* **Persistencia:** PostgreSQL.
 * **Paradigma:** Programación Orientada a Objetos (POO) con modularización de estilos y lógica de negocio.
 * **Entorno:** Desarrollado y optimizado bajo **Arch Linux**.
 
